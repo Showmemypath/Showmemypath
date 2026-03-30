@@ -1,4 +1,12 @@
-## Hi there 👋
+# Wine Quality Prediction
+
+ML project to predict wine quality using structured data.
+
+## Tools
+Python, Pandas, Scikit-learn
+
+## Status
+Work in progress
 
 <!--
 **Showmemypath/Showmemypath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
