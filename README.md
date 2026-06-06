@@ -5,9 +5,8 @@ Final year Mathematics Honours student with a focus on building practical ML ski
 
 ---
 
-## 🔭 Current Work
-* Working on **NYC 311 Response Time Prediction** — a regression project using Random Forest to predict service request resolution times
-  🔗 https://github.com/Showmemypath/response-time-prediction
+## 🌱 Currently Learning
+* Unsupervised learning — working on a clustering project
 
 ---
 
