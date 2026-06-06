@@ -32,3 +32,4 @@ Final year Mathematics Honours student with a focus on building practical ML ski
 
 ## 📫 Connect With Me
 * Email: sminus588@zohomail.in
+* LinkedIn: www.linkedin.com/in/sunny-a24515283
