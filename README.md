@@ -6,13 +6,13 @@ Final year Mathematics Honours student with a focus on building practical ML ski
 ---
 
 ## 🌱 Currently Learning
-* Unsupervised learning — working on a clustering project
+**Currently Building:** Gradient Boosting from scratch (no sklearn) — implementing the algorithm at the source code level to understand it beyond library usage.
 
 ---
 
 ## 💻 Tech Stack
 * **Languages:** Python
-* **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Plotly
+* **Libraries:** NumPy, SQL, Pandas, Matplotlib, Seaborn, Scikit-learn, Plotly
 * **Tools:** Git, VS Code, Jupyter
 
 ---
@@ -28,6 +28,9 @@ Final year Mathematics Honours student with a focus on building practical ML ski
   Classification model predicting wine quality using physicochemical features.
   *(Repository cleanup in progress)*
 
+* **Customer Segmentation using RFM and K-Means**
+  Unsupervised segmentation of e-commerce customers using SQL-engineered RFM features (Recency, Frequency, Monetary) and K-Means clustering. Includes EDA, skew correction, and model selection via Elbow, Silhouette, and Davies-Bouldin methods.
+  🔗 https://github.com/Showmemypath/rfm-customer-segmentation-kmeans
 ---
 
 ## 📫 Connect With Me
