@@ -26,7 +26,7 @@ Final year Mathematics Honours student with a focus on building practical ML ski
 
 * **Wine Quality Classification**
   Classification model predicting wine quality using physicochemical features.
-  *(Repository cleanup in progress)*
+  🔗 https://github.com/Showmemypath/wine-quality-prediction
 
 * **Customer Segmentation using RFM and K-Means**
   Unsupervised segmentation of e-commerce customers using SQL-engineered RFM features (Recency, Frequency, Monetary) and K-Means clustering. Includes EDA, skew correction, and model selection via Elbow, Silhouette, and Davies-Bouldin methods.
