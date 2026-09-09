@@ -1,12 +1,12 @@
 # Hi, I'm Sunny 👋
-Building skills in data science and machine learning through hands-on projects.
+I'm learning how to use machine learning and Deep learning via hands-on projects.
 
-Final year Mathematics Honours student with a focus on building practical ML skills through hands-on projects.
+Final year Mathematics Honours student with a focus on building practical ML/DL solutions
 
 ---
 
 ## 🌱 Currently Learning
-**Currently Building:** Gradient Boosting from scratch (no sklearn) — implementing the algorithm at the source code level to understand it beyond library usage.
+**Currently Building:** Fraud Detection ML
 
 ---
 
